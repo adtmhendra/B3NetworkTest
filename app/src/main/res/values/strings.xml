@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">B3NetworksTest</string>
+
+    <string name="text_welcoming">Selamat Datang!</string>
+    <string name="text_welcoming_desc">Tekan tombol \"Lakukan Panggilan\" untuk memulai panggilan.</string>
+    <string name="text_logout">Keluar</string>
+    <string name="text_login">Masuk</string>
+    <string name="hint_destination">Nomor Telepon Tujuan</string>
+    <string name="hint_message">Pesan</string>
+    <string name="action_call">Lakukan Panggilan</string>
+    <string name="account_info">Email : <b>admin@test.com</b>\nPassword : <b>adminadmin</b></string>
+    <string name="text_login_with_registered_account">Silakan masuk dengan akun yang sudah terdaftar.</string>
+    <string name="text_generate">Generate</string>
+    <string name="text_email">Email</string>
+    <string name="text_input_email">Masukkan email</string>
+    <string name="text_password">Password</string>
+    <string name="text_input_password">Masukkan password</string>
+    <string name="text_do_not_have_account">Belum punya akun?</string>
+    <string name="text_register_account">Daftar Akun</string>
+    <string name="text_register">Daftar Akun</string>
+    <string name="text_input_password_and_email">Masukkan email dan password yang diperlukan.</string>
+    <string name="action_register">Daftar</string>
+    <string name="text_new_account">Akun baru berhasil didaftarkan! silakan Login</string>
+    <string name="text_register_failed">Akun baru berhasil didaftarkan! silakan Login</string>
+    <string name="text_login_success">Berhasil login</string>
+    <string name="text_login_failed">Akun tidak terdaftar</string>
+    <string name="text_something_went_wrong">Terjadi kesalahan. Coba beberapa saat lagi</string>
+    <string name="text_number">Nomor telepon harus lebih dari 5 angka.</string>
+    <string name="text_data_not_null">Data tidak boleh kosong.</string>
+    <string name="text_call_permission_required">Izin akses telepon diperlukan. Buka Pengaturan</string>
+    <string name="action_settings">Pengaturan</string>
+</resources>
